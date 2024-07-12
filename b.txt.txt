@@ -1,0 +1,392 @@
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+
+
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
+Intro
+git LFS(Large File Storage) 大文件存储，是一种设计。
+
+其出现是为了避免对非文本的大文件的变动记录过多，而导致代码仓库增长过快。
+
+不同平台安装方式见 https://www.jianshu.com/p/493b81544f80
+
+另：github gitee 仓库大小限制 单个文件大小限制
+
+使用
+以 macOS 为例：
+
+安装 brew install git-lfs
+启用 git lfs install
+
+设置要用 lfs 追踪管理的大文件列表
+git lfs tract xxx
+可以是具体的文件名，也可以使用**通配目录，*通配文件名。
+如git lfs tract **/*.png
+该操作会生成.gitattributes 文件，该文件也需要提交。
